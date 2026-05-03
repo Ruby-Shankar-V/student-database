@@ -113,7 +113,7 @@ sudo dnf install gcc make      # Fedora / RHEL
 ### Build
 
 ```bash
-git clone https://github.com/Gopi-Shankar-V/Student-DBMS.git
+git clone https://github.com/Ruby-Shankar-V/student-database/.git
 cd Student-DBMS
 make
 ```
@@ -265,8 +265,8 @@ student.dat
 
 ## 👤 Author
 
-**Gopi Shankar V**
-GitHub: [@Gopi-Shankar-V](https://github.com/Gopi-Shankar-V)
+**Ruby Shankar V**
+GitHub: [@Ruby-Shankar-V](https://github.com/Ruby-Shankar-V)
 
 ---
 
